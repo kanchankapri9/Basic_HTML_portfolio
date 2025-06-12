@@ -1,4 +1,5 @@
-# 🚀 Basic HTML Portfolio Project
+# 🚀simple portfolio
+
 
 Welcome to my **first-ever personal portfolio website** built using just HTML!  
 This is a beginner-friendly mini project very simple just HTML has been used very very bigginener friendly made as part of the **Sigma Web Development Course 8.0 by Apna College** 👨‍💻👩‍💻.
